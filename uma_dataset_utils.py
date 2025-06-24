@@ -41,6 +41,7 @@ def uma_search_csv_files(directory, activities_of_interest=None):
 
 
 
+
 def group_sensor_data_by_segments(combined_df, include_gyroscope=True):
     """
     Groups sensor data into segments based on subject, activity, trial, and timestamp breaks.

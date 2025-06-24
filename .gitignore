@@ -10,6 +10,7 @@
 
 .venv
 
+*.h5
 
 datasets
 
